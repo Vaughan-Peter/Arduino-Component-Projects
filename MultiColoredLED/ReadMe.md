@@ -76,3 +76,10 @@ This project is released under the [MIT License](LICENSE).
 
 **Author:** [Peter Vaughan](https://github.com/Vaughan-Peter)  
 **Last updated:** October 2025
+
+
+![Tri-Color in Action 1](https://github.com/user-attachments/assets/96d831cf-a3ef-4722-b387-5c1f92a8578f)
+![Tri-Color in Action 3](https://github.com/user-attachments/assets/f033a961-0dfe-49c5-a70f-68bfea61f18d)
+![Tri-Color in Action 4](https://github.com/user-attachments/assets/c701ee17-9dc3-47f3-9aac-659665109daf)
+![Tri-Color in Action 2](https://github.com/user-attachments/assets/078583b8-4663-4acb-bfa5-6c31278b5230)
+![Tri-Color in Action 0](https://github.com/user-attachments/assets/0395d177-f1c5-4205-b3a5-7d37725ee1c3)
