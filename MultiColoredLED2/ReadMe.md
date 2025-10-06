@@ -49,8 +49,9 @@ You’re free to use, modify, and share for educational and personal projects.
 **YouTube:** [@PeterVaughan – Arduino Learning](https://www.youtube.com/shorts/1LlBJGCEUrE)  
 **Last Updated:** October 2025
 
-![Photo Example]![Tri-Color in Action 1](https://github.com/user-attachments/assets/c1862371-4348-4eaf-8f20-7650f974552c)
+![Tri-Color in Action 1](https://github.com/user-attachments/assets/c1862371-4348-4eaf-8f20-7650f974552c)
 ![Tri-Color in Action 3](https://github.com/user-attachments/assets/86544e0c-7c8f-4516-b92c-49aae5fd387b)
 ![Tri-Color in Action 4](https://github.com/user-attachments/assets/64cb29b1-6738-4a12-b412-3804bb27eca3)
 ![Tri-Color in Action 2](https://github.com/user-attachments/assets/aecf4256-7155-4749-acda-2e3f1a2bc4f3)
 ![Tri-Color in Action 0](https://github.com/user-attachments/assets/30ddbe02-7321-45bb-9194-452971c2f563)
+
