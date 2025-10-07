@@ -76,3 +76,15 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
 - 🐞 Open an [issue](https://github.com/) in this repository
 
 
+## 🖼️ Arduino Components & Kits
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee31149a-fa09-498e-91dc-daddfbfeda85" alt="Arduino components setup 1" width="800" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/47625a2e-e791-4265-9e62-ec939037c26e" alt="Arduino components setup 2" width="800" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/a217ffa2-7407-400e-a60e-e5843a836a09" alt="Arduino components setup 3" width="800" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/540b5528-3bad-4ac8-a8ac-bedbce10b3f5" alt="Arduino components setup 4" width="800" />
+</p>
+
