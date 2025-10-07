@@ -77,7 +77,9 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
 
 ## Images
 
-<img width="1000" height="744" alt="5228fb7a757b7fb7568b456d" src="https://github.com/user-attachments/assets/adb6cf13-baca-40c0-8029-b85aeff2d4da" />
-![https___dev-to-uploads s3 amazonaws com_uploads_articles_pnpbo88dmnck8t2dcyyy](https://github.com/user-attachments/assets/5a5f500d-2f28-421a-91fb-cff9e7896def)
-![popular-arduino-boards](https://github.com/user-attachments/assets/a68722f4-dc0c-480f-82d3-15c3dc44cd1d)
-<img width="850" height="494" alt="This-image-shows-variants-of-the-Arduino-boards-which-include-a-Arduino-Uno-b-Arduino" src="https://github.com/user-attachments/assets/fa7a1da5-e3ab-4aa2-aeb5-f733eaca5517" />
+<img width="1000" height="744" alt="5228fb7a757b7fb7568b456d" src="https://github.com/user-attachments/assets/6d972fb3-8249-44e7-a47a-7c1334130b54" />
+![2](https://github.com/user-attachments/assets/afce0aeb-eab7-4ed6-a450-73ba1378bca8)
+![popular-arduino-boards](https://github.com/user-attachments/assets/0855abe3-38ea-40a2-bd6d-0856fadcc088)
+<img width="850" height="494" alt="1" src="https://github.com/user-attachments/assets/64d33283-fd44-4eaf-b5fa-b7f0aa68d7d4" />
+
+
