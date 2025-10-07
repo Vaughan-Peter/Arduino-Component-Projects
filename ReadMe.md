@@ -75,6 +75,7 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
 - 🗨️ Comment on our YouTube videos  
 - 🐞 Open an [issue](https://github.com/) in this repository
 
+---
 
 ## 🖼️ Arduino Components & Kits
 
@@ -87,4 +88,7 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
   <br><br>
   <img src="https://github.com/user-attachments/assets/540b5528-3bad-4ac8-a8ac-bedbce10b3f5" alt="Arduino components setup 4" width="800" />
 </p>
+
+---
+
 
