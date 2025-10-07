@@ -35,3 +35,27 @@ The sensor's output is used to control LED patterns and behavior depending on wh
 ### `BinaryCounter.h`
 - Implements a binary counter using multiple LEDs.
 - When the touch sensor is pressed, the counter increments and the LEDs show the binary value.
+
+---
+
+## 🤝 Collaboration
+I’m open to collaboration and contributions!  
+If you’d like to:
+- Improve or expand existing projects  
+- Suggest new ideas or learning examples  
+- Help create guides, videos, or tutorials  
+
+Feel free to open an issue, submit a pull request, or reach out through GitHub.  
+Let’s build cool Arduino projects together and share what we learn along the way!
+
+---
+
+## 📚 License
+This repository and all example code are released under the [MIT License](LICENSE).  
+You’re free to use, modify, and share for educational and personal projects.
+
+---
+
+**Author:** [Peter Vaughan](https://github.com/Vaughan-Peter)  
+**YouTube:** [@PeterVaughan – Arduino Learning](https://www.youtube.com/shorts/1LlBJGCEUrE)  
+**Last Updated:** October 2025
