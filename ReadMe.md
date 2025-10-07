@@ -74,3 +74,10 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
 
 - 🗨️ Comment on our YouTube videos  
 - 🐞 Open an [issue](https://github.com/) in this repository
+
+## Images
+
+<img width="1000" height="744" alt="5228fb7a757b7fb7568b456d" src="https://github.com/user-attachments/assets/adb6cf13-baca-40c0-8029-b85aeff2d4da" />
+![https___dev-to-uploads s3 amazonaws com_uploads_articles_pnpbo88dmnck8t2dcyyy](https://github.com/user-attachments/assets/5a5f500d-2f28-421a-91fb-cff9e7896def)
+![popular-arduino-boards](https://github.com/user-attachments/assets/a68722f4-dc0c-480f-82d3-15c3dc44cd1d)
+<img width="850" height="494" alt="This-image-shows-variants-of-the-Arduino-boards-which-include-a-Arduino-Uno-b-Arduino" src="https://github.com/user-attachments/assets/fa7a1da5-e3ab-4aa2-aeb5-f733eaca5517" />
