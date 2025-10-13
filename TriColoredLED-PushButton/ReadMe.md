@@ -50,6 +50,19 @@ Each press of the button generates a **random color**, which the LED transitions
 - Each color transition is gradual and visually appealing  
 
 ---
+## 🎥 YouTube Demo
+
+Check out a quick demo of the project in action on YouTube Shorts:
+
+[![Arduino RGB LED Push-Button Demo](https://img.youtube.com/vi/_jnG5FBIqdA/maxresdefault.jpg)](https://www.youtube.com/shorts/_jnG5FBIqdA)  
+*Press the button — watch the RGB LED fade into random colors!*
+
+**Watch it here:**  
+https://www.youtube.com/shorts/_jnG5FBIqdA  
+
+> The video shows the push button connected to D13 and the RGB LED module on D3, D5, D6, with smooth transitions between random colors.
+
+---
 
 ## 🔧 Customization
 
@@ -111,3 +124,4 @@ A look at the components and the full Arduino RGB button setup in action:
 > 💡 *These photos show the button connected to D13 and the RGB LED module attached to pins D3, D5, and D6.  
 > You can use this layout as a reference when wiring your own setup.*
 ---
+
