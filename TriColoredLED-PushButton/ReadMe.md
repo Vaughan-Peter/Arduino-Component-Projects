@@ -97,3 +97,17 @@ Feel free to use, modify, and share it for personal or educational use.
 ---
 ## 📸 Pictures
 
+A look at the components and the full Arduino RGB button setup in action:
+
+| Description | Image |
+|--------------|--------|
+| Push button and RGB LED components | ![Component2](https://github.com/user-attachments/assets/cff70a08-2926-401a-8774-e7b0a064ab0c) |
+| RGB LED module close-up | ![1](https://github.com/user-attachments/assets/68c5c54d-3297-4c5e-9b3f-ddc8e7ade6e9) |
+| Breadboard and Arduino wiring (front view) | ![WIN_20251007_21_48_13_Pro](https://github.com/user-attachments/assets/7ee00210-5d66-4c71-87a0-a056c28e4bfd) |
+| Breadboard and Arduino wiring (angled view) | ![WIN_20251007_21_48_46_Pro](https://github.com/user-attachments/assets/05517a16-bb0c-4ffb-a120-37adc70ec63e) |
+
+---
+
+> 💡 *These photos show the button connected to D13 and the RGB LED module attached to pins D3, D5, and D6.  
+> You can use this layout as a reference when wiring your own setup.*
+---
