@@ -72,8 +72,9 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
 
 ## 💬 Need Help?
 
-- 🗨️ Comment on our YouTube videos  
-- 🐞 Open an [issue](https://github.com/) in this repository
+- 🗨️ Have a question? Leave a comment on one of our YouTube videos — we check them regularly!  
+- 💡 Found something that could be improved? You can suggest changes or share feedback directly in this repo by starting a discussion or opening a pull request.  
+- 🙌 Even small contributions—like fixing a typo or improving clarity—help make this project better!
 
 ---
 
@@ -90,5 +91,6 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
 </p>
 
 ---
+
 
 
