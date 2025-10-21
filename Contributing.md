@@ -34,11 +34,12 @@ Contributions of all kinds are welcome — from fixing typos to writing code exa
 
 ## 💬 Communication
 
-If you’d like to discuss ideas or an issue before working on them, feel free to:
- 
-- Reach out via [LinkedIn](https://www.linkedin.com/in/peter-vaughan-997478239/)  
-- Email: **otherhalifaxprojects@gmail.com**
+Have a question, idea, or issue to report?  
+You’re welcome to reach out directly by email:
 
+📧 **otherhalifaxprojects@gmail.com**
+
+Please include a short subject line (e.g., “Suggestion for next video”) so I can respond efficiently.
 ---
 
 ## 📜 Code of Conduct
@@ -51,4 +52,5 @@ By participating, you agree to help us maintain a community that is:
 - **Collaborative**: Support and uplift each other while sharing knowledge.  
 - **Constructive**: Provide helpful feedback and focus on improving the project together.  
 - **Safe**: Harassment, discrimination, or disrespectful behavior will not be tolerated.  
+
 
