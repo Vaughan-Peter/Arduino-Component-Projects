@@ -22,6 +22,7 @@ These projects are great for beginners looking to understand the basics of micro
 Watch the demo video on YouTube:  
 - ▶️ [https://www.youtube.com/shorts/1LlBJGCEUrE](https://www.youtube.com/shorts/1LlBJGCEUrE)
 - ▶️ https://www.youtube.com/shorts/sr0EtO-YAfc 
+
 GitHub folder:  
 🔗 [MultiColoredLED](https://github.com/Vaughan-Peter/ArduinoLearning/tree/main/MultiColoredLED)
 
@@ -54,5 +55,6 @@ You’re free to use, modify, and share for educational and personal projects.
 ![Tri-Color in Action 4](https://github.com/user-attachments/assets/64cb29b1-6738-4a12-b412-3804bb27eca3)
 ![Tri-Color in Action 2](https://github.com/user-attachments/assets/aecf4256-7155-4749-acda-2e3f1a2bc4f3)
 ![Tri-Color in Action 0](https://github.com/user-attachments/assets/30ddbe02-7321-45bb-9194-452971c2f563)
+
 
 
