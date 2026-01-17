@@ -74,6 +74,28 @@ For example:
 
 ---
 
+## Demo Videos
+
+Below are two short demos related to this project:
+
+### 🎥 Demo #1
+
+**Title / Description (replace with your own):** *Short demo of feature X in action.*
+
+👉 https://www.youtube.com/shorts/8bdVb5P90oU
+
+> YouTube Shorts (vertical short-form videos) are a quick way to show key interactions or outputs without a full long-form video. :contentReference[oaicite:0]{index=0}
+
+---
+
+### 🎬 Demo #2
+
+**Title / Description (replace with your own):** *Short walkthrough showing how Y works.*
+
+👉 https://www.youtube.com/shorts/l81iKlkvmDI
+
+---
+
 ## 🤝 Collaboration
 I’m open to collaboration and contributions!  
 If you’d like to:
@@ -95,6 +117,7 @@ You’re free to use, modify, and share for educational and personal projects.
 **Author:** [Peter Vaughan](https://github.com/Vaughan-Peter)  
 **YouTube:** [@PeterVaughan – Arduino Learning](https://www.youtube.com/shorts/1LlBJGCEUrE)  
 **Last Updated:** October 2025
+
 
 
 
