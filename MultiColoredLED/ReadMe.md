@@ -42,13 +42,12 @@ A YouTube tutorial accompanies this project:
 - **KY-016 Datasheet:** [joy-it.net PDF](https://joy-it.net/files/files/Produkte/COM-KY016-RGBLED/COM-KY016RGBLED-Datasheet.pdf)
 
 ---
-🎥 Featured Project
+## 🎥 Featured Project  
+**MultiColoredLED – KY-016 RGB LED Module**
 
-MultiColoredLED – KY-016 RGB LED Module
-
-Watch the demo videos on YouTube:
-▶️ https://www.youtube.com/shorts/1LlBJGCEUrE
-▶️ https://www.youtube.com/shorts/sr0EtO-YAfc
+Watch the demo videos on YouTube:  
+- ▶️ https://www.youtube.com/shorts/1LlBJGCEUrE  
+- ▶️ https://www.youtube.com/shorts/sr0EtO-YAfc  
 
 ---
 
@@ -85,4 +84,5 @@ This project is released under the [MIT License](LICENSE).
 ![Tri-Color in Action 4](https://github.com/user-attachments/assets/c701ee17-9dc3-47f3-9aac-659665109daf)
 ![Tri-Color in Action 2](https://github.com/user-attachments/assets/078583b8-4663-4acb-bfa5-6c31278b5230)
 ![Tri-Color in Action 0](https://github.com/user-attachments/assets/0395d177-f1c5-4205-b3a5-7d37725ee1c3)
+
 
